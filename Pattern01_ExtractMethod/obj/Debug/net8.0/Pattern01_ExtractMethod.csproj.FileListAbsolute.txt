@@ -1,0 +1,15 @@
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\bin\Debug\net8.0\Pattern01_ExtractMethod.exe
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\bin\Debug\net8.0\Pattern01_ExtractMethod.deps.json
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\bin\Debug\net8.0\Pattern01_ExtractMethod.runtimeconfig.json
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\bin\Debug\net8.0\Pattern01_ExtractMethod.dll
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\bin\Debug\net8.0\Pattern01_ExtractMethod.pdb
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\Pattern01_ExtractMethod.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\Pattern01_ExtractMethod.AssemblyInfoInputs.cache
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\Pattern01_ExtractMethod.AssemblyInfo.cs
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\Pattern01_ExtractMethod.csproj.CoreCompileInputs.cache
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\Pattern01_ExtractMethod.dll
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\refint\Pattern01_ExtractMethod.dll
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\Pattern01_ExtractMethod.pdb
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\Pattern01_ExtractMethod.genruntimeconfig.cache
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\ref\Pattern01_ExtractMethod.dll
+Z:\BTTH03_DPM235472_BuiVoThaoQuyen\BTH03_Refactoring\Pattern01_ExtractMethod\obj\Debug\net8.0\Pattern01_ExtractMethod.sourcelink.json

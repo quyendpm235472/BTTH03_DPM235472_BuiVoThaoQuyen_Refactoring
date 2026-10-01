@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pattern01_ExtractMethod/1.0.0": {
+        "runtime": {
+          "Pattern01_ExtractMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pattern01_ExtractMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
