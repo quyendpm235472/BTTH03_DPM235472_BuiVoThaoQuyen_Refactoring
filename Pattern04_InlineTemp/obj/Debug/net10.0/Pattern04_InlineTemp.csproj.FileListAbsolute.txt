@@ -1,0 +1,16 @@
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\bin\Debug\net10.0\Pattern04_InlineTemp.exe
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\bin\Debug\net10.0\Pattern04_InlineTemp.deps.json
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\bin\Debug\net10.0\Pattern04_InlineTemp.runtimeconfig.json
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\bin\Debug\net10.0\Pattern04_InlineTemp.dll
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\bin\Debug\net10.0\Pattern04_InlineTemp.pdb
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern04_InlineTemp.GeneratedMSBuildEditorConfig.editorconfig
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern04_InlineTemp.AssemblyInfoInputs.cache
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern04_InlineTemp.AssemblyInfo.cs
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern04_InlineTemp.csproj.CoreCompileInputs.cache
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern04_InlineTemp.sourcelink.json
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern04_InlineTemp.dll
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\refint\Pattern04_InlineTemp.dll
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern04_InlineTemp.pdb
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern04_InlineTemp.genruntimeconfig.cache
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\ref\Pattern04_InlineTemp.dll
+D:\30Bai\BTH03_Solution\Pattern04_InlineTemp\obj\Debug\net10.0\Pattern0.6D36A088.Up2Date
