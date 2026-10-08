@@ -1,0 +1,16 @@
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\bin\Debug\net10.0\Pattern02_InlineMethod.exe
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\bin\Debug\net10.0\Pattern02_InlineMethod.deps.json
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\bin\Debug\net10.0\Pattern02_InlineMethod.runtimeconfig.json
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\bin\Debug\net10.0\Pattern02_InlineMethod.dll
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\bin\Debug\net10.0\Pattern02_InlineMethod.pdb
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern02_InlineMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern02_InlineMethod.AssemblyInfoInputs.cache
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern02_InlineMethod.AssemblyInfo.cs
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern02_InlineMethod.csproj.CoreCompileInputs.cache
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern02_InlineMethod.sourcelink.json
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern02_InlineMethod.dll
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\refint\Pattern02_InlineMethod.dll
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern02_InlineMethod.pdb
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern02_InlineMethod.genruntimeconfig.cache
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\ref\Pattern02_InlineMethod.dll
+D:\30Bai\BTH03_Solution\Pattern02_InlineMethod\obj\Debug\net10.0\Pattern0.F6A05E57.Up2Date
